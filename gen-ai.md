@@ -1,1 +1,2 @@
 - https://arxiv.org/abs/2312.17449 : DB-GPT: Empowering Database Interactions with Private Large Language Models
+- https://arxiv.org/abs/2401.02115 : Using LLM to select the right SQL Query from candidates
