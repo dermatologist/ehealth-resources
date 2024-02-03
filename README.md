@@ -11,6 +11,7 @@
 * [references.md](references.md) -> Journal articles and other citation sources.
 * [tools.md](tools.md) -> Software tools that can be used for tasks such as data analytics.
 * [machine_learning.md](machine_learning.md) -> Resources for machine learning in medicine.
+* [gen-ai.md](gen-ai.md) -> Gen AI resources
 
 ## Contributors  (Feel free to add your name below, along with a pull request)
 * [Bell Eapen](https://nuchange.ca)
