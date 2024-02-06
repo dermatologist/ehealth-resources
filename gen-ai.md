@@ -4,3 +4,4 @@
 - https://www.youtube.com/watch?v=KQjZ68mToWo : LangChain - Advanced RAG Techniques for better Retrieval Performance (Video)
 - https://www.youtube.com/watch?v=DY3sT4yIezs : Advanced Retrieval - Video Webinar
 - https://www.youtube.com/watch?v=k8GNCCs16F4 : Agents in Production
+- https://www.youtube.com/watch?v=jKqm9ZSLmZQ : Revolutionize Your World with Top 8 AI GitHub Projects
