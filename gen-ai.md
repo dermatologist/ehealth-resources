@@ -3,3 +3,4 @@
 - https://www.jmir.org/2023/1/e50638#app1 : Prompt Engineering as an Important Emerging Skill for Medical Professionals
 - https://www.youtube.com/watch?v=KQjZ68mToWo : LangChain - Advanced RAG Techniques for better Retrieval Performance (Video)
 - https://www.youtube.com/watch?v=DY3sT4yIezs : Advanced Retrieval - Video Webinar
+- https://www.youtube.com/watch?v=k8GNCCs16F4 : Agents in Production
