@@ -1,1 +1,2 @@
 - https://www.youtube.com/watch?v=KQjZ68mToWo : LangChain - Advanced RAG Techniques for better Retrieval Performance (Video)
+- https://www.youtube.com/watch?v=jKqm9ZSLmZQ : Revolutionize Your World with Top 8 AI GitHub Projects - Video
