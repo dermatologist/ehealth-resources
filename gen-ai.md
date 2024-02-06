@@ -5,3 +5,4 @@
 - https://www.youtube.com/watch?v=DY3sT4yIezs : Advanced Retrieval - Video Webinar
 - https://www.youtube.com/watch?v=k8GNCCs16F4 : Agents in Production
 - https://www.youtube.com/watch?v=jKqm9ZSLmZQ : Revolutionize Your World with Top 8 AI GitHub Projects
+- https://neo4j.com/blog/unifying-llm-knowledge-graph/#:~:text=Knowledge%20graphs%20are%20a%20reliable,for%20knowledge%2Dintensive%20NLP%20tasks. : Knowledge Graph and LLM
