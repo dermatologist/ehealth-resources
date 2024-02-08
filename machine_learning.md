@@ -5,3 +5,4 @@
 - https://github.com/EmilyAlsentzer/clinicalBERT : repository for Publicly Available Clinical BERT Embeddings
 - https://github.com/axa-group/nlp.js : An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - https://github.com/JohnGiorgi/DeCLUTR : DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations
+- https://www.sciencedirect.com/science/article/abs/pii/S1532046424000029?dgcid=rss_sd_all : Prototypical network - feature extraction
