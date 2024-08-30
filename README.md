@@ -12,6 +12,7 @@
 * [tools.md](tools.md) -> Software tools that can be used for tasks such as data analytics.
 * [machine_learning.md](machine_learning.md) -> Resources for machine learning in medicine.
 * [gen-ai.md](gen-ai.md) -> Gen AI resources
+* [datasets.md](datasets.md) -> Datasets for health informatics
 
 ## Contributors  (Feel free to add your name below, along with a pull request)
 * [Bell Eapen](https://nuchange.ca)
