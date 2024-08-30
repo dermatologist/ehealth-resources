@@ -1,2 +1,10 @@
 - https://www.youtube.com/watch?v=KQjZ68mToWo : LangChain - Advanced RAG Techniques for better Retrieval Performance (Video)
 - https://www.youtube.com/watch?v=jKqm9ZSLmZQ : Revolutionize Your World with Top 8 AI GitHub Projects - Video
+- https://arxiv.org/abs/2312.17449 : DB-GPT: Empowering Database Interactions with Private Large Language Models
+- https://arxiv.org/abs/2401.02115 : Using LLM to select the right SQL Query from candidates
+- https://www.jmir.org/2023/1/e50638#app1 : Prompt Engineering as an Important Emerging Skill for Medical Professionals
+- https://www.youtube.com/watch?v=KQjZ68mToWo : LangChain - Advanced RAG Techniques for better Retrieval Performance (Video)
+- https://www.youtube.com/watch?v=DY3sT4yIezs : Advanced Retrieval - Video Webinar
+- https://www.youtube.com/watch?v=k8GNCCs16F4 : Agents in Production
+- https://www.youtube.com/watch?v=jKqm9ZSLmZQ : Revolutionize Your World with Top 8 AI GitHub Projects
+- https://neo4j.com/blog/unifying-llm-knowledge-graph/#:~:text=Knowledge%20graphs%20are%20a%20reliable,for%20knowledge%2Dintensive%20NLP%20tasks. : Knowledge Graph and LLM
